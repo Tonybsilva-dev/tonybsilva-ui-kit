@@ -1,0 +1,12 @@
+{
+  "name": "Ui-Kit",
+  "version": "1.0.0",
+  "main": "dist/index.tsx",
+  "author": "Antônio Bernardino da Silva <antoniobsilvaprof@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.9.35",
+    "react": "^16.13.1",
+    "typescript": "^3.9.3"
+  }
+}
