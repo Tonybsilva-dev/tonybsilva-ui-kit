@@ -1,12 +1,20 @@
 import React from 'react';
 
-const styles: React.CSSProperties = {
-backgroundColor: '#7159c1',
-color: '#fff'
-}
+interface Props {
+  backgroundColor?: string;
+  color?: string;
 
-export const Button: React.FC =  ({ children }) => {
-  return (
-    <button>{children}</button>
-  )
-}
+};
+
+const style: React.CSSProperties = {
+backgroundColor: '#e02041',
+color: '#fff'
+};
+
+export const Button: React.FC<Props> =  ({ 
+  children, 
+  backgroundColor = '#e02041', 
+  color = '#fff', 
+}) => {
+  return <button style={style}>{children}</button>
+};

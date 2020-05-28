@@ -15,5 +15,4 @@ addDecorator(withInfo);
 addDecorator(centered);
 
 // Import All Stories
-
 configure(require.context('../stories', true, /\.stories\.tsx$/), module);
