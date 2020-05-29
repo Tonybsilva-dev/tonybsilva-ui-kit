@@ -1,26 +1,22 @@
 import React from 'react';
 
-interface Props {
+import { Container } from './styles';
+
+export interface Props {
   /**
-   * My Pattern of color
+   * Button color
    */
   backgroundColor?: string;
   /**
-   * Color of button
+   * String color
    */
   color?: string;
 
 }
-
-const style: React.CSSProperties = {
-backgroundColor: '#e02041',
-color: '#fff',
-};
-
 export const Button: React.FC<Props> = ({ 
   children, 
   backgroundColor = '#e02041', 
   color = '#fff', 
 }) => {
-  return <button style={style}>{children}</button>;
+  return <Container backgroundColor={backgroundColor} color={color}>{children}</Container>;
 }
