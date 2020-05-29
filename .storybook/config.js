@@ -3,10 +3,11 @@ import { withInfo } from '@storybook/addon-info';
 import centered from '@storybook/addon-centered/react';
 
 import theme from './theme';
+
 import './reset.css';
 
 addParameters({
-  options:{
+  options: {
     theme,
   },
 });
@@ -14,5 +15,5 @@ addParameters({
 addDecorator(withInfo);
 addDecorator(centered);
 
-// Import All Stories
+// Import all stories
 configure(require.context('../stories', true, /\.stories\.tsx$/), module);
