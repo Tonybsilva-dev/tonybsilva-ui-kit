@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 
 interface Props {
   /**
@@ -11,7 +10,7 @@ interface Props {
    */
   color?: string;
 
-};
+}
 
 const style: React.CSSProperties = {
 backgroundColor: '#e02041',
@@ -24,10 +23,4 @@ export const Button: React.FC<Props> = ({
   color = '#fff', 
 }) => {
   return <button style={style}>{children}</button>;
-};
-
-Button.propTypes = {
-  color: PropTypes.string,
-  backgroundColor: PropTypes.string
-  
 }
