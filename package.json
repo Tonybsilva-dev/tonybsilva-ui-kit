@@ -1,11 +1,12 @@
 {
-  "name": "Ui-Kit",
-  "version": "1.0.0",
+  "name": "tonybsilva-ui-kit",
+  "version": "1.0.1",
   "main": "dist/index.tsx",
   "author": "Antônio Bernardino da Silva <antoniobsilvaprof@hotmail.com>",
   "license": "MIT",
   "scripts": {
-    "storybook": "start-storybook -p 8080"
+    "storybook": "start-storybook -p 8080",
+    "build": "tsc -p ."
   },
   "devDependencies": {
     "@storybook/addon-centered": "^5.3.19",
