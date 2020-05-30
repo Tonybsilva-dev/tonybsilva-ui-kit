@@ -12,6 +12,7 @@ yarn storybook # Inicializa o storybook Demo
 <h3>Some examples:</h3>
 </br>
 <h6>Input</h6>
+![Input](/img/Input.png)
 (https://user-images.githubusercontent.com/54373473/83339332-3a515880-a2a3-11ea-8062-7128712e4725.jpg)
 </br>
 <h6>Button</h6>
