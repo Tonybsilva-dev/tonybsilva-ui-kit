@@ -1,22 +1,33 @@
+  
 import React from 'react';
 
 import { Container } from './styles';
 
 export interface Props {
-  /**
-   * Button color
-   */
   backgroundColor?: string;
-  /**
-   * String color
-   */
   color?: string;
+  outlined?: boolean;
+  onClick?: () => void;
+  disabled?: boolean;
+}
 
-}
-export const Button: React.FC<Props> = ({ 
-  children, 
-  backgroundColor = '#e02041', 
-  color = '#fff', 
+const ButtonWrapper: React.FC<Props> = ({
+  children,
+  backgroundColor = '#e02041',
+  color = '#fff',
+  outlined = false,
+  ...props
 }) => {
-  return <Container backgroundColor={backgroundColor} color={color}>{children}</Container>;
-}
+  return (
+    <Container
+      backgroundColor={backgroundColor}
+      color={color}
+      outlined={outlined}
+      {...props}
+    >
+      {children}
+    </Container>
+  );
+};
+
+export { ButtonWrapper as Button };

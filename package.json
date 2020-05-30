@@ -20,6 +20,7 @@
     "typescript": "^3.9.3"
   },
   "dependencies": {
+    "react-icons": "^3.10.0",
     "styled-components": "^5.1.1"
   }
 }

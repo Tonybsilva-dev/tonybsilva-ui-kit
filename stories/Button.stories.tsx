@@ -1,11 +1,9 @@
 import React from 'react';
 import { storiesOf } from '@storybook/react';
 
-import { Button } from '../src/components/Button';
+import { Button } from '../src';
 
-storiesOf('Button', module).add('Default', () =>( 
-  <Button 
-  backgroundColor="#e02041" 
-  color="#fff">
-    Teste
-  </Button> ));
+storiesOf('Button', module)
+  .add('Default', () => <Button>Default</Button>)
+  .add('Outlined', () => <Button outlined>Outlined</Button>)
+  .add('Disabled', () => <Button disabled>Default</Button>);
