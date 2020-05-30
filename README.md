@@ -12,14 +12,13 @@ yarn storybook # Inicializa o storybook Demo
 <h3>Some examples:</h3>
 </br>
 <h6>Input</h6>
-<img src="/img/Input.png" alt="Input"/>
-(https://user-images.githubusercontent.com/54373473/83339332-3a515880-a2a3-11ea-8062-7128712e4725.jpg)
+<img src="/img/input.png"/>
 </br>
 <h6>Button</h6>
-(https://user-images.githubusercontent.com/54373473/83339801-59ea8000-a2a7-11ea-9793-48a4eee6d8c5.jpg)
+<img src="/img/Button.png"/>
 </br>
 <h6>CheckBox</h6>
-(https://user-images.githubusercontent.com/54373473/83339802-5a831680-a2a7-11ea-8c53-ba9d426bd283.jpg)
+<img src="/img/CheckBox.png"/>
 </br>
 
 <p aling="center">
