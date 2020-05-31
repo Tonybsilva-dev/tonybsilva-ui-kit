@@ -16,6 +16,8 @@ yarn storybook # Inicializa o storybook Demo
 </br>
 <h6>Button</h6>
 <img src="/img/Button.png"/>
+<h6>Doc_Button</h6>
+<img src="/img/Doc.png"/>
 </br>
 <h6>CheckBox</h6>
 <img src="/img/CheckBox.png"/>
