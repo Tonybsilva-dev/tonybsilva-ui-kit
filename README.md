@@ -1,4 +1,4 @@
-<h1>tonybsilva-ui-kit</h1>
+<h1>tonybsilva-ui-kit 🎨</h1>
 <span>Simple UI Kit Library for React.js with Storybook Demo.</span>
 
 
@@ -6,7 +6,7 @@
 <h6>Storybook</h6>
 
 ```
-yarn storybook # Inicializa o storybook Demo
+yarn storybook # Starting the storybook Demo
 ```
 
 <h3>Some examples:</h3>
