@@ -16,6 +16,6 @@ export default({
   barSelectedColor: '#ffffff',
   barBg: '#1b1a1f',
 
-  brandTitle: 'RunTime Ui-kit',
-  brandUrl: 'https://github.com/yRunTimeException',
+  brandTitle: 'Tonybsilva-dev ui-kit',
+  brandUrl: 'https://github.com/Tonybsilva-dev',
 });

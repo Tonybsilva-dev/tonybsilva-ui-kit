@@ -12,7 +12,7 @@ storiesOf('Input', module)
     return (
       <Input
         name="RunTime"
-        placeholder="yRynTimeException..."
+        placeholder="Tonybsilva-dev..."
         value={inputValue}
         setValue={setInputValue}
       />
@@ -25,7 +25,7 @@ storiesOf('Input', module)
       <Input
         name="RunTime"
         icon={<MdSearch />}
-        placeholder="yRunTimeException..."
+        placeholder="Tonybsilva-dev..."
         value={inputValue}
         setValue={setInputValue}
       />
