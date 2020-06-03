@@ -14,6 +14,9 @@ yarn storybook # Starting the storybook Demo
 <h6>Input</h6>
 <img src="/img/input.png"/>
 </br>
+<h6>Modal (NEW)</h6>
+<img src="/img/Modal.png"/>
+</br>
 <h6>Button</h6>
 <img src="/img/Button.png"/>
 <h6>Doc_Button</h6>
