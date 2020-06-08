@@ -1,15 +1,24 @@
 <h1>tonybsilva-ui-kit 🎨</h1>
 <span>Simple UI Kit Library for React.js with Storybook Demo.</span>
 
+## 💻 Sobre o projeto
 
-<h3>Starting the application:</h3>
+tonybsilva-ui-kit é uma library que fiz a fim de iniciar meus estudos para desenvolvimento de componentes para React, afim de curiosidade e aprendizagem.
+
+##  Como instalar?
+```
+1 - npm install tonybsilva-ui-kit <br/>
+2 - yarn add tonybsilva-ui-kit
+```
+
+## Starting the application:
 <h6>Storybook</h6>
 
 ```
 yarn storybook # Starting the storybook Demo
 ```
 
-<h3>Some examples:</h3>
+## Some examples:
 </br>
 <h6>Input</h6>
 <img src="/img/input.png"/>
@@ -32,7 +41,7 @@ yarn storybook # Starting the storybook Demo
 
 </p>
 
-<h3>Tools Used:</h3>
+##Tools Used:
 <ul>
   <li>React</li>
   <li>Typescript</li>
@@ -42,3 +51,12 @@ yarn storybook # Starting the storybook Demo
   <li>Yarn</li>
 </ul>
 
+## Contribua para o projeto 😉
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
+
+Antônio Bernardino 👋🏽 [Entre em contato!](https://www.linkedin.com/in/tony-silva/)
