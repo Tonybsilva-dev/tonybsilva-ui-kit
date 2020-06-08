@@ -7,7 +7,7 @@ tonybsilva-ui-kit é uma library que fiz a fim de iniciar meus estudos para dese
 
 ##  Como instalar?
 ```
-1 - npm install tonybsilva-ui-kit <br/>
+1 - npm install tonybsilva-ui-kit
 2 - yarn add tonybsilva-ui-kit
 ```
 
