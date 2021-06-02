@@ -1,70 +1,197 @@
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Thanks again! Now go create something AMAZING! :D
+***
+***
+***
+*** To avoid retyping too much info. Do a search and replace for the following:
+*** github_username, repo_name, twitter_handle, email, project_title, project_description
+-->
+
+
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+<!-- PROJECT LOGO -->
+<br />
 <p align="center">
-
-  <a href="https://twitter.com/tonybsilvaaa">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2Fnlw1">
+  <a href="https://github.com/Tonybsilva-dev/tonybsilva-ui-kit">
+    <img src="https://i.imgur.com/WkEtp8o.png" alt="Logo">
   </a>
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+
+  <h3 align="center">Tonybsilva-ui-kit</h3>
+
+  <p align="center">
+    tonybsilva-ui-kit is a library I made in order to start my studies for developing components for React, in order to learn and learn.
+    <br />
+    <a href="https://github.com/Tonybsilva-dev/tonybsilva-ui-kit/wiki"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Tonybsilva-dev/tonybsilva-ui-kit">View Demo</a>
+    ·
+    <a href="https://github.com/Tonybsilva-dev/tonybsilva-ui-kit/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Tonybsilva-dev/tonybsilva-ui-kit/issues">Request Feature</a>
+  </p>
 </p>
 
-<h1>tonybsilva-ui-kit 🎨</h1>
-<span>Simple UI Kit Library for React.js with Storybook Demo.</span>
 
-## 💻 Sobre o projeto
 
-tonybsilva-ui-kit é uma library que fiz a fim de iniciar meus estudos para desenvolvimento de componentes para React, afim de curiosidade e aprendizagem.
-
-##  Como instalar?
-```
-1 - npm install tonybsilva-ui-kit
-2 - yarn add tonybsilva-ui-kit
-```
-
-## Starting the application:
-<h6>Storybook</h6>
-
-```
-yarn storybook # Starting the storybook Demo
-```
-
-## Some examples:
-</br>
-<h6>Input</h6>
-<img src="/img/input.png"/>
-</br>
-<h6>Modal (NEW)</h6>
-<img src="/img/Modal.png"/>
-</br>
-<h6>Button</h6>
-<img src="/img/Button.png"/>
-<h6>Doc_Button</h6>
-<img src="/img/Doc.png"/>
-</br>
-<h6>CheckBox</h6>
-<img src="/img/CheckBox.png"/>
-</br>
-
-<p aling="center">
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
 
 
-</p>
+<!-- ABOUT THE PROJECT -->
+## About The Project
+<!--
 
-## Tools Used:
-<ul>
-  <li>React</li>
-  <li>Typescript</li>
-  <li>Storybook</li>
-  <li>Styled Components</li>
-  <li>Polished</li>
-  <li>Yarn</li>
-</ul>
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-## Contribua para o projeto 😉
+Here's a blank template to get started:
+**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
+`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
-Antônio Bernardino 👋🏽 [Entre em contato!](https://www.linkedin.com/in/tony-silva/)
+### Built With
+
+* []()
+* []()
+* []()
+
+-->
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Tonybsilva-dev/tonybsilva-ui-kit.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+
+
+
+<!-- USAGE EXAMPLES -->
+## Example
+<!--
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+-->
+  <a href="https://github.com/Tonybsilva-dev/tonybsilva-ui-kit">
+    <img src="https://i.imgur.com/2rKDbEo.png"  alt="Example">
+  </a>
+  </br>
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/Tonybsilva-dev/tonybsilva-ui-kit/issues) for a list of proposed features (and known issues).
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+
+<!-- CONTACT -->
+### Autor
+---
+
+<a href="https://tonybsilvadev.medium.com/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54373473?v=4" width="150px;" alt=""/>
+ <br />
+ <sub><b>Antônio Bernardino da Silva</b></sub></a> <a href="https://tonybsilvadev.medium.com/" title="Medium".</a>
+
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/Tonybsilva-dev/tonybsilva-ui-kit.svg?style=for-the-badge
+[contributors-url]: https://github.com/Tonybsilva-dev/tonybsilva-ui-kit/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Tonybsilva-dev/tonybsilva-ui-kit.svg?style=for-the-badge
+[forks-url]: https://github.com/Tonybsilva-dev/tonybsilva-ui-kit/network/members
+[stars-shield]: https://img.shields.io/github/stars/Tonybsilva-dev/tonybsilva-ui-kit.svg?style=for-the-badge
+[stars-url]: https://github.com/Tonybsilva-dev/tonybsilva-ui-kit/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Tonybsilva-dev/tonybsilva-ui-kit.svg?style=for-the-badge
+[issues-url]: https://github.com/Tonybsilva-dev/tonybsilva-ui-kit/issues
+[license-shield]: https://img.shields.io/github/license/Tonybsilva-dev/tonybsilva-ui-kit.svg?style=for-the-badge
+[license-url]: https://github.com/Tonybsilva-dev/tonybsilva-ui-kit/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/tony-silva/
